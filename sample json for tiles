@@ -1,0 +1,43 @@
+sample json for tiles
+{
+ "data" : [{
+   "title" : "FCA First",
+   "title_image": "",
+   "year":"2017",
+   "data" :[{
+     "value": "62",
+      "key": "Total Certified Participants 2016",
+      "type" : "NUMBER"
+   },
+   {
+     "value": "14",
+     "key": "Master Certified",
+     "type" : "NUMBER"
+   },
+   {
+     "value": "8",
+     "key": "Certified Specialists",
+     "type" : "NUMBER"
+   }
+   ]
+ },
+ 
+ {
+   "title" : "Top Advisor",
+   "title_image": "",
+   "data" :[{
+     "value": "62",
+      "key": "Dealership Participants"
+   },
+   {
+     "value": "92",
+     "key": "Average Quarterly Survey Score"
+   },
+   {
+     "value": "1",
+     "key": "Advisors Qualified This Quarter"
+   }
+   ]
+ }
+ ]
+}
